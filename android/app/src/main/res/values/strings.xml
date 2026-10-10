@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Industrial Safety Hub</string>
+    <string name="title_activity_main">Industrial Safety Hub</string>
+    <string name="package_name">com.ehsplus.safetyhub</string>
+    <string name="custom_url_scheme">com.ehsplus.safetyhub</string>
+</resources>
