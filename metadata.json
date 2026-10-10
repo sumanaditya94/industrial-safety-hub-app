@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Safety Hub",
+  "description": "Enterprise EHS+ safety suite with real-time 4-gas monitoring, 5x5 HIRA risk matrix, statutory acts, SDS library, and multimodal AI hazard inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
